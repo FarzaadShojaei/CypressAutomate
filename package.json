@@ -1,0 +1,24 @@
+{
+  "name": "cypressautomate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FarzaadShojaei/CypressAutomate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress":"^13.6.4",
+    "@cypress/xpath":"^2.0.3"
+
+  },
+  "dependencies": {
+    "cypress-real-events":"^1.7.0",
+    "cypress": "^13.6.4"
+  }
+}
